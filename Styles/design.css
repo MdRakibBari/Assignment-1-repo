@@ -2,3 +2,194 @@ body {
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
+
+.bannnnar {
+    background-image: url('../Images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: 1050px;
+    background-position: center top;
+    border-radius: 16px;
+
+
+
+}
+
+.title {
+    color: #FFF;
+    /* text-align: center; */
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 130px;
+
+
+
+}
+
+.main-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    /* line-height: 95px; */
+    /* 131.944% */
+    margin-top: -15px;
+    padding-bottom: 170px;
+}
+
+.same {
+    text-align: center;
+    font-family: Inter;
+}
+
+.same1 {
+    color: #F00;
+    font-size: 75px;
+    font-weight: 700;
+    margin-bottom: 48px;
+    /* margin-top: 150px; */
+}
+
+.same2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+
+
+}
+
+.same3 {
+    color: #070211;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 0px;
+}
+
+.lekha {}
+
+* {}
+
+.nyp {
+    width: 700px;
+    flex-shrink: 0;
+    display: block;
+    margin: auto;
+    margin-top: 48px;
+    margin-bottom: -20px;
+}
+
+.party {}
+
+.lotsleka {
+    padding-bottom: 0px;
+}
+
+.des {
+    color: #F00;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 0px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.style {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 45px;
+}
+
+.relsec {
+
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    ;
+    text-align: center;
+    padding: 100px 200px 215px 200px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 16px;
+
+}
+
+.button-pro {
+    border: 0px;
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+
+}
+
+.finally {
+    /* color: #FFF; */
+    /* background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+
+
+    /* text-align: center; */
+    /* font-family: Inter; */
+    /* font-size: 17px; */
+    /* font-weight: 700; */
+    /* text-transform: uppercase; */
+    /* margin-top: 25px; */
+    /* border: 0; */
+    /* margin-left: 15px; */
+}
+
+.party {
+    /* display: flex; */
+    background-image: url(../Images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: 1150px;
+    background-position: center;
+    margin-top: 100px;
+}
+
+.buttt {
+    margin-left: 255px;
+    margin-bottom: 250px;
+    margin-top: 20px;
+    border: 0px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    background-color: #070211;
+}
+
+.welte1 {
+    padding-top: 200px;
+    margin-left: 230px;
+    margin-bottom: 0px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+}
+
+.welte2 {
+    margin-left: 230px;
+    margin-bottom: 0px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}

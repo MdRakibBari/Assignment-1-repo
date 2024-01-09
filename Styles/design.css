@@ -9,6 +9,7 @@ body {
     background-size: 1050px;
     background-position: center top;
     border-radius: 16px;
+    
 
 
 
@@ -125,25 +126,10 @@ body {
     justify-content: center;
     align-items: center;
     gap: 10px;
-
+    color: #FFF;
+    font-size: 20px;
 
 }
-
-.finally {
-    /* color: #FFF; */
-    /* background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
-
-
-    /* text-align: center; */
-    /* font-family: Inter; */
-    /* font-size: 17px; */
-    /* font-weight: 700; */
-    /* text-transform: uppercase; */
-    /* margin-top: 25px; */
-    /* border: 0; */
-    /* margin-left: 15px; */
-}
-
 .party {
     /* display: flex; */
     background-image: url(../Images/Vectorrr.png);
@@ -156,7 +142,7 @@ body {
 .buttt {
     margin-left: 255px;
     margin-bottom: 250px;
-    margin-top: 20px;
+    margin-top: 40px;
     border: 0px;
     color: #FFF;
     text-align: center;
@@ -519,6 +505,7 @@ body {
     background-color: #070211;
     margin-top: 120px;
     padding-top: 120px;
+    
 }
 
 .suuu {
